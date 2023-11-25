@@ -1,0 +1,88 @@
+{
+    
+    "datapenyakit": [
+      { "id": 1, 
+        "title": "Gangguan Jiwa", 
+        "jenis": "Sangat Umum",
+        "img": "https://www.barendspsychology.com/wp-content/uploads/2018/07/Gangguan-Mental.png",
+        "desc" : "Gangguan cemas ditandai dengan kecemasan saat merespon situasi atau objek tertentu yang sulit untuk dikendalikan, sehingga menyebabkan pengidapnya merasa takut dan panik hingga jantungnya berdetak lebih cepat. Kecemasan bisa berupa gangguan panik (panic attack), fobia,  dan gangguan cemas sosial."
+        },
+      {
+        "id": 2, 
+        "title": "Gangguan Mood", 
+        "jenis": "Umum",
+        "img": "https://www.logosconsulting.co.id/media/wp-content/uploads/2023/01/Gangguan-Suasana-Hati-Mood-Disorder.jpg",
+        "desc" : "Gangguan tentang suasana hati ini bisa melibatkan perasaan dalam tempo yang sangat panjang. Perasaan yang muncul bisa terlalu sedih atau juga terlalu bahagia. Gangguan mood yang paling umum dirasakan adalah depresi, bipolar, dan siklotimik."
+      },
+      {
+        "id": 3, 
+        "title": "Gangguan Psikotik", 
+        "jenis": "Umum",
+        "img": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1690857604/attached_image/penyakit/psikiatri/gangguan-psikotik-akut.jpg",
+        "desc" : "Gangguan tentang suasana hati ini bisa melibatkan perasaan dalam tempo yang sangat panjang. Perasaan yang muncul bisa terlalu sedih atau juga terlalu bahagia. Gangguan mood yang paling umum dirasakan adalah depresi, bipolar, dan siklotimik."
+      },
+      {
+        "id": 4, 
+        "title": "Skizofrenia", 
+        "jenis": "Umum",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkfirQpM7XJD322RH_YaDD9FYjAHf0giBX0u8a8929CNqcaSP26I5SOM3nv003POdd1EI&usqp=CAU",
+        "desc" : "Gangguan tentang suasana hati ini bisa melibatkan perasaan dalam tempo yang sangat panjang. Perasaan yang muncul bisa terlalu sedih atau juga terlalu bahagia. Gangguan mood yang paling umum dirasakan adalah depresi, bipolar, dan siklotimik."
+      },      
+      {
+        "id": 5, 
+        "title": "Gangguan makan", 
+        "jenis": "Umum",
+        "img": "https://www.emc.id/files/CarePlus/2023/Aug/binge%20eating.jpg",
+        "desc" : "Gangguan makan termasuk ke dalam salah satu penyakit mental karena berurusan dengan psikologi dari seseorang. Orang yang mengalami gangguan ini bisa merasa harus atau tidak harus mengonsumsi sebuah makanan. Gangguan makan bisa membuat orang bisa mengonsumsi makanan dalam porsi yang banyak hingga menjadi kelebihan berat badan. Bisa juga menjadi enggan makan hingga memuntahkan kembali makanan yang sudah dimasukkan."
+      },      
+      {
+        "id": 6, 
+        "title": "Gangguan kecanduan", 
+        "jenis": "Umum",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ZJqWeVkUpIjSb77qj_bF7BT77Mp6-YDBcVTvnICNRVPCgR21I5l3iPFKTR_qnCuybSQ&usqp=CAU",
+        "desc" : "Penyakit mental ini membuat orang sulit menahan dorongan untuk melakukan sesuatu yang seringnya membahayakan diri. Gangguan yang paling sering dijumpai adalah kecanduan rokok, alkohol, hingga obat-obatan. Ada juga kecanduan yang bisa merugikan diri sendiri dan orang lain, seperti kecanduan judi, mencuri, hingga membakar benda yang ada di sekitarnya."
+      },      
+      {
+        "id": 7, 
+        "title": "Gangguan kepribadian", 
+        "jenis": "Umum",
+        "img": "https://img.freepik.com/free-vector/different-emotions-mood-change-woman-girl-with-negative-positive-various-expression-crisis-distracted-behavior-flat-vector-illustration-pms-psychology-mental-disorder-concept_74855-21785.jpg",
+        "desc" : "Orang dengan gangguan ini biasanya memiliki kepribadian yang tidak normal layaknya orang kebanyakan. Hal ini sering membuat orang lain menjadi kesusahan. Sebut saja gangguan kepribadian antisosial yang sulit membuatnya berbaur dengan orang lain."
+      },      
+      {
+        "id": 8, 
+        "title": "Obsessive-compulsive disorder (OCD)",
+        "jenis": "Umum", 
+        "img": "https://www.theblackberrycenter.com/wp-content/uploads/2020/04/shutterstock_1221168250.jpg",
+        "desc" : "Orang dengan OCD cenderung memiliki kecemasan dan ketakutan pada sesuatu. Hal ini membuat mereka melakukan hal yang sama berulang-ulang hingga kadang merepotkan untuk diri sendiri. Beberapa orang menganggap hal tersebut menjadi sebuah ritual sakral yang membuatnya menjadi terganggu saat tidak melakukannya. Sebagai contoh gangguan yang membuat orang cenderung mencuci tangan setiap saat."
+      },      
+      {
+        "id": 9, 
+        "title": "Post Traumatic Stress Disorder (PTSD)", 
+        "jenis": "Sangat Umum",
+        "img": "https://gstrai.com/wp-content/uploads/2020/02/PTSD-800x800.png",
+        "desc" : "Post-traumatic stress disorder (PTSD) merupakan gangguan pada seseorang yang membuatnya sangat tertekan sehingga takut pada sesuatu, termasuk aktivitas, tempat, atau bencana yang pernah dialami. Ketakutan ini akan muncul sewaktu-waktu dan mengganggu para penderitanya biarpun kejadian tersebut sudah terjadi sangat lama."
+      },      
+      {
+        "id": 10, 
+        "title": "Attention Deficit Hyperactivity Disorder (ADHD)", 
+        "jenis": "Sangat Umum",
+        "img": "https://www.santacruzsentinel.com/wp-content/uploads/2023/05/Image-2-santacruzsentinel.com_.jpg?w=1024",
+        "desc" : "Kondisi ini membuat seseorang sulit fokus, impulsive, dan hiperaktif. Tidak jarang gangguan ini mempengaruhi aktivitas harian. Penyebab ADHD sebenarnya belum diketahui secara pasti. Namun, banyak pendapat yang menyebutkan bahwa gangguan ini diturunkan oleh faktor genetik."
+      },      
+      {
+        "id": 11, 
+        "title": "Depresi", 
+        "img": "https://www.denpasarmentalhealthcentre.my.id/gambar/depression.jpg",
+        "jenis": "Sangat Umum",
+        "desc" : "Depresi berbeda dengan perubahan suasana hati yang terjadi biasanya. Gangguan depresi memiliki episode yang berlangsung lebih panjang. Mereka yang mengalaminya selalu merasa sedih, cemas, tidak bernilai, dan cenderung mau mengakhiri hidupnya."
+      },      
+      {
+        "id": 12, 
+        "title": "Factitious", 
+        "jenis": "Umum",
+        "img": "https://ananda.ai/wp-content/uploads/2021/08/Health-Condition-25-1024x536.jpg",
+        "desc" : "Penderita gangguan factitious membuat penderitanya bisa bertindak seolah-olah memiliki gangguan mental. Kondisi ini juga sering disebut sebagai gangguan mental buatan. Tidak jarang penderitanya menyakiti dirinya sendiri atau melakukan sebuah terapi pengobatan yang sebenarnya tidak perlu dilakukan."
+      }
+    ]
+}
